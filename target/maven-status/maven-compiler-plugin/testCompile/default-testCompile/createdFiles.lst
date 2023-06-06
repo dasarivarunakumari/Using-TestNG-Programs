@@ -1,0 +1,12 @@
+Insurance\HomeInsurance.class
+Parameters\Groups.class
+RobotClass\RobotClassSelenium.class
+SwtichCommands\DragandDrop.class
+Insurance\HealthInsurance.class
+WebElementCommands\webElementCommand.class
+Insurance\CarInsurance.class
+ReadValuesFromExcel\ReadValuesExcel.class
+SwtichCommands\AlertPopup.class
+Parameters\ParameterPractice.class
+SwtichCommands\IFrame.class
+Insurance\DogInsurance.class

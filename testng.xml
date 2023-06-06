@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<parameter name="first-name"  value="Cedric"/>
+
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Insurance.DogInsurance"/>
+      <class name="Insurance.CarInsurance"/>
+      <class name="ReadValuesFromExcel.ReadValuesExcel"/>
+      <class name="WebElementCommands.webElementCommand"/>
+      <class name="Insurance.HealthInsurance"/>
+      <class name="Insurance.HomeInsurance"/>
+      <class name="SwtichCommands.AlertPopup"/>
+       <class name="SwtichCommands.IFrame"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
